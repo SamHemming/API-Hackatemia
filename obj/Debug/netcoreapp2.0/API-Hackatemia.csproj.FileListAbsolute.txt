@@ -1,0 +1,10 @@
+D:\Google Drive\C#\API-Hackatemia\bin\Debug\netcoreapp2.0\API-Hackatemia.deps.json
+D:\Google Drive\C#\API-Hackatemia\bin\Debug\netcoreapp2.0\API-Hackatemia.runtimeconfig.json
+D:\Google Drive\C#\API-Hackatemia\bin\Debug\netcoreapp2.0\API-Hackatemia.runtimeconfig.dev.json
+D:\Google Drive\C#\API-Hackatemia\bin\Debug\netcoreapp2.0\API-Hackatemia.dll
+D:\Google Drive\C#\API-Hackatemia\bin\Debug\netcoreapp2.0\API-Hackatemia.pdb
+D:\Google Drive\C#\API-Hackatemia\obj\Debug\netcoreapp2.0\API-Hackatemia.csproj.CoreCompileInputs.cache
+D:\Google Drive\C#\API-Hackatemia\obj\Debug\netcoreapp2.0\API-Hackatemia.AssemblyInfoInputs.cache
+D:\Google Drive\C#\API-Hackatemia\obj\Debug\netcoreapp2.0\API-Hackatemia.AssemblyInfo.cs
+D:\Google Drive\C#\API-Hackatemia\obj\Debug\netcoreapp2.0\API-Hackatemia.dll
+D:\Google Drive\C#\API-Hackatemia\obj\Debug\netcoreapp2.0\API-Hackatemia.pdb
